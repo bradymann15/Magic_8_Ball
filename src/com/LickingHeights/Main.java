@@ -12,6 +12,9 @@ public class Main {
 
         //initialize+code
         keyboard = new Scanner(System.in);
+        System.out.println("Welcome to Magic 8 Ball!");
+        
+
 
 
     }
