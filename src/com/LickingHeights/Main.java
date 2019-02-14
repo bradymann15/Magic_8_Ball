@@ -11,5 +11,6 @@ public class Main {
         String question;
 
         //initialize
+        keyboard = new Scanner(System.in);
     }
 }
