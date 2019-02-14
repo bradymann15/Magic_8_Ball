@@ -8,5 +8,6 @@ public class Main {
 	Scanner keyboard;
 	int value;
 	int testing;
+	String question; 
     }
 }
