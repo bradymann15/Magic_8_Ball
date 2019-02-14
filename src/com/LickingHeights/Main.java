@@ -5,8 +5,11 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-	Scanner keyboard;
-	int testing;
-	String question;
+        //declare
+        Scanner keyboard;
+        int testing;
+        String question;
+
+        //initialize
     }
 }
