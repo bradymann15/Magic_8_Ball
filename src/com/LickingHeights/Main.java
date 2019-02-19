@@ -15,8 +15,8 @@ public class Main {
         System.out.println("Welcome to Magic 8 Ball!");
         System.out.println("What is your question?");
         question = keyboard.nextLine();
-
-
-
-    }
+        System.out.println("Now, give a number between 1 and 100");
+        testing = keyboard.nextInt();
+       
+            }
 }
