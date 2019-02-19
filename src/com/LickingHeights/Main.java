@@ -35,6 +35,9 @@ public class Main {
         else if (testing<=60) {
             System.out.println("Sometime soon..");
         }
+        else if (testing<=70) {
+            System.out.println("No luck there...");
+        }
         
 
 
