@@ -32,6 +32,9 @@ public class Main {
         else if (testing<=50) {
             System.out.println("Not in this life time..");
         }
+        else if (testing<=60) {
+            System.out.println("Sometime soon..");
+        }
         
 
 
