@@ -38,8 +38,15 @@ public class Main {
         else if (testing<=70) {
             System.out.println("No luck there...");
         }
-        
+        else if (testing<=80) {
+            System.out.println("Nope!");
+        }
+        else if (testing<=90) {
+            System.out.println("You got it");
+        }
+        else if (testing>=91) {
+            System.out.println("Absolutely");
+            }
+}
 
-
-    }
 }
