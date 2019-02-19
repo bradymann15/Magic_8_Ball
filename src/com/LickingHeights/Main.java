@@ -26,6 +26,9 @@ public class Main {
         else if (testing<=30) {
             System.out.println("Not today..");
         }
+        else if (testing<=40); {
+            System.out.println("You bet ya!");
+        }
 
     }
 }
