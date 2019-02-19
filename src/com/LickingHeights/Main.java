@@ -29,6 +29,11 @@ public class Main {
         else if (testing<=40); {
             System.out.println("You bet ya!");
         }
+        else if (testing<=50) {
+            System.out.println("Not in this life time..");
+        }
+        
+
 
     }
 }
