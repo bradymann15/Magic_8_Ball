@@ -44,10 +44,9 @@ public class Main {
         else if (testing<=90) {
             System.out.println("You got it");
         }
-        else {
+        else if (testing>=91) {
             System.out.println("Absolutely");
             }
-
 }
 
 }
